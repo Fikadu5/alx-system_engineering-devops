@@ -40,8 +40,8 @@ frontend Fikadu-tech-frontend
 
 backend Fikadu-tech-backend
     balance roundrobin
-    server 479781-web-01 35.153.194.52:80 check
-    server 479781-web-02 34.203.201.40:80 check
+    server 479781-web-01 35.175.129.41:80 check
+    server 479781-web-02 52.91.151.235:80 check
 "
 
 # shellcheck disable=SC2154
